@@ -27,7 +27,7 @@
 *.vrb
 
 # PDF gerado
-*.pdf
+#*.pdf
 
 # Pasta de build, caso seja utilizada
 build/
