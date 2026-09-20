@@ -1,0 +1,33 @@
+# =========================
+# LaTeX - arquivos gerados
+# =========================
+
+# Arquivos auxiliares
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Arquivos temporários
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.nav
+*.snm
+*.vrb
+
+# PDF gerado
+*.pdf
+
+# Pasta de build, caso seja utilizada
+build/
